@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Travel webpage</title>
+        
+        <style>
+        
+        body {background-color: rgb(255, 76, 255);}
+        
+        h1 {background-color: rgb(95, 126, 250);}
+        
+        #the-conclusion {color: rgb(245, 245, 245);}
+        
+        </style>
+        
+        
+    </head>
+    <body>
+    
+    
+        <h1>Travel abroad</h1>
+        
+        <h2>Hi everyone! I'm Vlad <br>
+          In my blog I wanna share with you my trips <br>
+          The first one will be beaches and fields in Europe
+        </h2>
+        
+        <h3><em> This is a photo from the plane: </em></h3>
+        
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/clouds-from-plane.png" weight="480" height="280"> 
+        
+        <p id="first-description"> We see such an incredibale view on the fluffy clouds <br> 
+           This is the point, where we've taken off... <br>
+        </p>
+        
+        <p>~</p>
+        
+        <p> After several hours going on the tiny old roads in cities, <br> I moved to the crystal grane field with a clear blue sky! <br>
+            It looks amazingly spiritual, isn't it?
+        </p>
+        
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/fields-of-grain.png" weight="480" height="280">
+        
+        <p> At the end of the day, I finally reached the fantastic beach <br>
+        Just look at this! I was waiting so long to see the sunset.<br>
+        <strong>BEAUTIFUL!</strong>
+        </p>
+        
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-sunset.png" weight="480" height="280">
+        
+        <h2 id="the-conclusion"><strong> Conclusion </strong></h2>
+        
+        <h3><em> There's a list of my points from a reflection </em></h3>
+        
+        <h4><ol>
+        
+        <li>I've got a lot of positive emotions <li> 
+        I've scaled my vision on our world<li>
+        
+        I've understand European culture more precisely
+        
+        </ol></h4>
+        
+        <h3><em> There a list of points from my dear friends </em></h3>
+        
+        <h4><ul> 
+        
+        <li> I have decided to travel more
+        <li> Vlad and I have met new interesting people
+        <li> I have eaten nice food
+            
+            
+        </ul></h4>
+        
+        
+    </body>
+</html>
