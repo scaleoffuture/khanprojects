@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+        
+        p {font-family: cursive;
+            font-weight: bold;
+            font-size: 15px;
+        }
+        
+        h6 {font-family: fantasy;
+            text-align: center; 
+            letter-spacing: 1px;
+            font-weight: bold;
+            font-size: 13px;
+            font-style: italic;
+            
+        }
+        
+        h1 {font-family: sans-serif;
+            color: rgb(10, 200, 252);
+            font-style: italic;
+        }
+        
+        h2 {font-family: "Helvetica", sans-serif;
+            
+        color: rgb(3, 255, 167);
+        }
+        
+        body {background-color: rgb(255, 208, 0);}
+        
+        
+        </style>
+    </head>
+    <body>
+        
+        <h1>Vlad's blog (again)</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li><a href="#first-post">First post</a></li>
+            <li><a href="#second-post">Second post</a></li>
+            <li><a href="#third-post">Finally third post</a></li>
+        </ul>
+        
+        <h2 id="first-post">First post</h2>
+        <h6>GAGAGA. It's an incredibly fascinaing tour around the world</h6>
+        
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-in-hawaii.png" width="500" weight="480" height="280">
+        
+        <p>Hawaii upper.</p>
+        
+        <h2 id="second-post">Second post!</h2>
+        <h6>Suddenly it's Christmas. Look at that! One piece of photos for you^=^</h6>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/seasonal/house-with-lights.png" weight="480" height="280">
+        
+        <p>The colourful house of mine. Drop me a line if you want to see it inside. Spoiler: there is much brighter environment because of Christmas :)</p>
+        
+        <h1 id="third-post">My the best and final post here</h1>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/retriever.png" weight="480" height="280">
+        <p> As you may know, it's about my dogger! It's a nice fellow that helps me to be a bit happy.</p>
+        
+        <p><br>If you have any comments, let me know, I'll answer you and provide with information. See u!<br></p>
+        
+        
+    </body>
+</html>
