@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+        
+        body {background-image: url("https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach.png");
+            
+        }
+        
+        
+        h1 {position: center;
+        background-color: yellow;
+            font-family: fantasy;
+            font-size: 28px;
+            font-style: italic;
+            line-height: 1.5em;
+            text-align: center;
+        
+            
+        }
+        
+        #exclamation-mark {font-family: cursive;
+        font-size: 20px;
+            
+        }
+        
+        
+        
+        #details {margin: 5px; 
+            
+        }
+        
+        
+        
+        #main-part {border: 3.5px dashed yellow;
+        background-color: rgb(10, 255, 67);
+        padding: 10px;
+            
+        }
+        
+        
+        #img { float: right;
+        width: 128px;
+        margin: 5px;
+        
+    
+            
+            
+        }
+        
+        #movie {border: 3.5px dashed yellow;
+        padding: 10px;
+        
+        background: red;
+        float: bottom;
+        width: 50%;
+        position: center;
+        margin: 10px;
+        margin-right: 20px;
+        padding-right: 40px;
+        }
+       
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1>You're invited!</h1>
+        
+        <div id="main-part">
+        
+        img id="img" src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/space/star.png
+        
+        <h2 id="exclamation-mark">To Vlad's Birthday party!</h2>
+        
+        <div id="details">
+        <p>The details: </p>
+        
+            <li> Place: Vlad's house (Moscow, Pyatnitskoe shosse, 42, house 178.)</li>
+            <li> Day: 18th of May</li>
+            <li> Time: 18 PM</li>
+            <li> Type of the event: Birthday party</li>
+            <li> Activities: dynamic games, communication, swimming, meditation, a ceremonial evening, cinema at the end <a href="#movie">(movie selection sheet).</a></li>
+            <li>Dresscode: absolutely free</li>
+            
+            </div>
+            </div>
+            
+            
+            <div id="movie"><h2> <em>Movie list:</em> </h2>
+            <ol>
+        <li>2010: Inception</li>
+        <li>2010: Iron Man</li>
+        <li>1998: Lock, Stock and Two Smoking Barrels</li>
+        <li>1985: Back to the Future</li>
+        <li>2010: Scott Pilgrim vs. the World</li>
+    </ol>
+    </div>
+            
+            
+        
+        
+    </body>
+</html>
