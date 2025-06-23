@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        
+        #headline1 {color: green;}
+        
+        #recipe1 {color:green;}
+        
+        #recipe2 {color:green;}
+        
+        #recipe3 {color:green;}
+        
+        </style>
+    </head>
+    <body>
+       
+        <h1 id="headline1">Vlad's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#recipe1">Recipe #1</a></li>
+            <li><a href="#recipe2">Recipe #2</a></li>
+            <li><a href="#recipe3">Recipe #3</a></li>
+        </ol>
+        
+        <h2 id="recipe1">Recipe #1</h2>
+        
+        <ul>
+            <li>Time: 5 min</li>
+            <li>Serves: 1 week</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr><td> Milk<td><td> 0.25l<td>
+            </tr>
+                
+                <tr><td> Sugar<td><td> 1 spoon<td>
+            
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Find ingridiens
+</p>
+
+<p><strong> Step 2: </strong> Mix </p>
+<p><strong> Step 3: </strong> Drink </p>
+        
+    <p><em>Source: <a href="https://openai.com/de-DE/index/chatgpt/">Some recipes websites</a></em></p>
+    
+    <h2 id="recipe2">Recipe #2</h2>
+        
+        <ul>
+            <li>Time: 10 min</li>
+            <li>Serves: 1.5 week</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr><td> Milk<td><td> 0.25l<td>
+            </tr>
+                
+                <tr><td> Honey<td><td> 2 spoons<td>
+            
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Find ingridiens
+</p>
+
+<p><strong> Step 2: </strong> Mix</p>
+<p><strong> Step 3: </strong> Drink</p>
+<p><strong> Step 4:</strong> Enjoy</p>
+        
+    <p><em>Source: <a href="https://openai.com/de-DE/index/chatgpt/">Some recipes websites</a></em></p>
+    
+    <h2 id="recipe3">Recipe #3</h2>
+        
+        <ul>
+            <li>Time: 15 min</li>
+            <li>Serves: 1.5 week</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr><td> Milk<td><td> 0.25l<td>
+            </tr>
+                
+                <tr><td> Hold chocolate<td><td> 2 pieces<td>
+            
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Find ingridiens
+</p>
+
+<p><strong> Step 2: </strong> Mix or take it separately</p>
+<p><strong> Step 3: </strong> Drink and eat</p>
+<p><strong> Step 4:</strong> Enjoy</p>
+        
+    <p><em>Source: <a href="https://openai.com/de-DE/index/chatgpt/">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
