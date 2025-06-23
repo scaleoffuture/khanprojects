@@ -1,2 +1,2 @@
-# travel-webpage
-My first project HTML/CSS.
+# khan-projects
+My first projects HTML/CSS.
